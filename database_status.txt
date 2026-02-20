@@ -1,0 +1,32 @@
+
+============================================================
+FINAL DATABASE STATE - REGISTERED STUDENTS
+============================================================
+
+Total Students: 4
+
+1. Swetha Ramamoorthi
+   ID: 24mx355
+   Email: rswetha2807@gmail.com
+   Face Embeddings: 0 valid
+   WARNING: No valid face data!
+
+2. akshaya
+   ID: 24mx203
+   Email: akshaya@gmail.com
+   Face Embeddings: 0 valid
+   WARNING: No valid face data!
+
+3. Vinodha
+   ID: 24MX128
+   Email: vinoselvam02@gmail.com
+   Face Embeddings: 0 valid
+   WARNING: No valid face data!
+
+4. Swetha
+   ID: 24mx356
+   Email: 24mx355@psgtech.ac.in
+   Face Embeddings: 5 valid
+   Status: Ready for recognition
+
+============================================================

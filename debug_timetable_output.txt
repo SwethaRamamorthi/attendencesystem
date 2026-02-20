@@ -1,0 +1,12 @@
+--- DEBUGGING TIMETABLE (SIMPLE) ---
+
+--- Student Record (Email: rswetha2807@gmail.com) ---
+Found Student: Name=Swetha Ramamoorthi, Dept=mca, Year=2, Div=G2, _id=697c8a764c83dbd78245f515
+
+--- All Timetables ---
+Total Timetables: 0
+
+--- Searching for Timetable Match: Dept=mca, Year=2, Div=G2 ---
+NO EXACT MATCH FOUND.
+
+--- End Debug ---

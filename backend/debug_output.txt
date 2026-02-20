@@ -1,0 +1,16 @@
+--- Searching for Student 'Swetha' ---
+✅ Found Student: Swetha R | ID: 25mx355 | Email: rswetha2807@gmail.com
+
+--- Checking DB Attendance Records for ID: 25mx355 ---
+Found 1 records.
+ - Date: 2026-02-16, Session: 23MXAF – Data Mining & Analytics, Time: 10:09:20
+
+--- Simulating Signin for rswetha2807@gmail.com ---
+Signin Status: 401
+Signin Failed: {"error":"Invalid password","success":false}
+
+
+--- Calling API for Student ID: 25mx355 ---
+API Response Success: True
+API returned 1 records.
+ - Date: 2026-02-16, Subject: 23MXAF – Data Mining & Analytics, Time: 10:09:20, Status: present
